@@ -1,8 +1,8 @@
-# Sanskrit Translator
+# Samskrutam Translator
 
 This project aims to translate sentences from sanskrit to english or vice versa and does so using deep learning.
 
-Overview:
+## Overview:
 Input1 - एतत् पुस्तकं संस्कृतेन लिखितम् अस्ति, भवन्तः जानन्ति।
 Output1 - This book is written in Sanskrit, you know.
 
